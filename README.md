@@ -20,7 +20,7 @@ If you would like to use the code, simply clone to code to your machine, open th
 ![screencapture-budget-tracker-pwa-deployed-herokuapp-2021-12-10-09_56_13](https://user-images.githubusercontent.com/86434738/145594872-e602b447-5402-428a-b1f7-deb12fda5dfb.png)
 
 ## Usage
-Open [this](https://budget-tracker-pwa-deployed.herokuapp.com/) Heroku link above and add your income and expenditures with a note title!
+Open [this](https://budget-tracker-pwa-deployed.herokuapp.com/) Heroku link and add your income and expenditures with a note title!
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
